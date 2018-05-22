@@ -1,0 +1,12 @@
+.list-group-item{
+    cursor: pointer;
+    &:hover {
+        background-color: #eee;
+    }
+
+}
+
+
+.video-item img {
+    max-width: 64px;
+}
